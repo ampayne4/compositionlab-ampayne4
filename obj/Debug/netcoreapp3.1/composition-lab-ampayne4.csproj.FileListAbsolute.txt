@@ -1,0 +1,13 @@
+C:\Users\spoke\source\repos\compositionlab-ampayne4\bin\Debug\netcoreapp3.1\composition-lab-ampayne4.exe
+C:\Users\spoke\source\repos\compositionlab-ampayne4\bin\Debug\netcoreapp3.1\composition-lab-ampayne4.deps.json
+C:\Users\spoke\source\repos\compositionlab-ampayne4\bin\Debug\netcoreapp3.1\composition-lab-ampayne4.runtimeconfig.json
+C:\Users\spoke\source\repos\compositionlab-ampayne4\bin\Debug\netcoreapp3.1\composition-lab-ampayne4.runtimeconfig.dev.json
+C:\Users\spoke\source\repos\compositionlab-ampayne4\bin\Debug\netcoreapp3.1\composition-lab-ampayne4.dll
+C:\Users\spoke\source\repos\compositionlab-ampayne4\bin\Debug\netcoreapp3.1\composition-lab-ampayne4.pdb
+C:\Users\spoke\source\repos\compositionlab-ampayne4\obj\Debug\netcoreapp3.1\composition-lab-ampayne4.csprojAssemblyReference.cache
+C:\Users\spoke\source\repos\compositionlab-ampayne4\obj\Debug\netcoreapp3.1\composition-lab-ampayne4.AssemblyInfoInputs.cache
+C:\Users\spoke\source\repos\compositionlab-ampayne4\obj\Debug\netcoreapp3.1\composition-lab-ampayne4.AssemblyInfo.cs
+C:\Users\spoke\source\repos\compositionlab-ampayne4\obj\Debug\netcoreapp3.1\composition-lab-ampayne4.csproj.CoreCompileInputs.cache
+C:\Users\spoke\source\repos\compositionlab-ampayne4\obj\Debug\netcoreapp3.1\composition-lab-ampayne4.dll
+C:\Users\spoke\source\repos\compositionlab-ampayne4\obj\Debug\netcoreapp3.1\composition-lab-ampayne4.pdb
+C:\Users\spoke\source\repos\compositionlab-ampayne4\obj\Debug\netcoreapp3.1\composition-lab-ampayne4.genruntimeconfig.cache

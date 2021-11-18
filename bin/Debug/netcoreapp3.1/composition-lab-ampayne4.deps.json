@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "composition-lab-ampayne4/1.0.0": {
+        "runtime": {
+          "composition-lab-ampayne4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "composition-lab-ampayne4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
